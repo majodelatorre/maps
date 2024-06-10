@@ -1,0 +1,181 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg id="Map" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 5100 3300" width="100%" height="100%">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        isolation: isolate;
+        opacity: .5;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <image id="Imagen" width="2550" height="1650" transform="translate(-346 -198.2) scale(2)" xlink:href="Plano Power BI - Montserrat.jpg"></image>
+  <polygon id="MTS.875.009" class="cls-1 area" points="394 1167 456 1097 577 1232 512 1303 443 1372 394 1167"></polygon>
+  <polygon id="MTS.875.010" class="cls-1 area" points="573 1002 666 1166 634 1179 611 1194 592 1211 578 1231 457 1096 485 1059 510 1034 541 1013 573 1002"></polygon>
+  <polygon id="MTS.875.011" class="cls-1 area" points="729 972 763 1149 670 1165 576 1001 729 972"></polygon>
+  <polygon id="MTS.875.012" class="cls-1 area" points="823 954 857 1131 763 1148 730 971 823 954"></polygon>
+  <polygon id="MTS.875.013" class="cls-1 area" points="917 937 950 1113 858 1130 824 954 917 937"></polygon>
+  <polygon id="MTS.875.014" class="cls-1 area" points="1010 920 1044 1096 951 1112 918 936 1010 920"></polygon>
+  <polygon id="MTS.875.015" class="cls-1 area" points="1104 902 1138 1079 1045 1096 1010 921 1104 902"></polygon>
+  <polygon id="MTS.875.016" class="cls-1 area" points="1197 885 1231 1061 1138 1078 1105 903 1197 885"></polygon>
+  <polygon id="MTS.875.017" class="cls-1 area" points="1291 866 1324 1042 1231 1061 1197 885 1291 866"></polygon>
+  <polygon id="MTS.875.018" class="cls-1 area" points="1385 850 1417 1026 1325 1042 1291 866 1385 850"></polygon>
+  <polygon id="MTS.875.019" class="cls-1 area" points="1477 831 1510 1008 1418 1025 1385 850 1477 831"></polygon>
+  <polygon id="MTS.875.020" class="cls-1 area" points="1570 814 1604 990 1511 1008 1477 831 1570 814"></polygon>
+  <polygon id="MTS.875.021" class="cls-1 area" points="1664 797 1699 973 1604 990 1571 814 1664 797"></polygon>
+  <polygon id="MTS.875.022" class="cls-1 area" points="1760 779 1791 957 1700 974 1665 797 1760 779"></polygon>
+  <polygon id="MTS.875.023" class="cls-1 area" points="1878 766 1892 948 1841 949 1791 957 1761 780 1836 765 1878 766"></polygon>
+  <polygon id="MTS.875.024" class="cls-1 area" points="1980 769 1991 947 1893 947 1879 767 1980 769"></polygon>
+  <polygon id="MTS.875.025" class="cls-1 area" points="2080 765 2098 943 2062 948 2012 948 1991 947 1981 769 2038 770 2080 765"></polygon>
+  <polygon id="MTS.875.026" class="cls-1 area" points="2173 751 2198 928 2098 943 2080 765 2173 751"></polygon>
+  <polygon id="MTS.875.029" class="cls-1 area" points="779 1981 765 2170 665 2164 674 1970 723 1978 779 1981"></polygon>
+  <polygon id="MTS.875.030" class="cls-1 area" points="884 1989 865 2177 766 2170 780 1981 884 1989"></polygon>
+  <polygon id="MTS.875.031" class="cls-1 area" points="988 2000 967 2189 866 2177 885 1989 988 2000"></polygon>
+  <polygon id="MTS.875.032" class="cls-1 area" points="1085 2012 1061 2198 968 2189 987 2000 1085 2012"></polygon>
+  <polygon id="MTS.875.033" class="cls-1 area" points="1183 2025 1155 2212 1063 2199 1086 2012 1183 2025"></polygon>
+  <polygon id="MTS.875.034" class="cls-1 area" points="1282 2040 1250 2228 1156 2213 1183 2026 1282 2040"></polygon>
+  <polygon id="MTS.875.035" class="cls-1 area" points="1377 2058 1342 2242 1250 2228 1281 2039 1377 2058"></polygon>
+  <polygon id="MTS.875.036" class="cls-1 area" points="1473 2075 1436 2263 1343 2242 1379 2059 1473 2075"></polygon>
+  <polygon id="MTS.875.038" class="cls-1 area" points="1568 2095 1529 2281 1437 2263 1473 2075 1568 2095"></polygon>
+  <polygon id="MTS.875.039" class="cls-1 area" points="1765 2136 1724 2323 1623 2300 1661 2115 1765 2136"></polygon>
+  <polygon id="MTS.875.040" class="cls-1 area" points="1859 2158 1818 2342 1724 2322 1765 2136 1859 2158"></polygon>
+  <polygon id="MTS.875.041" class="cls-1 area" points="1950 2177 1911 2362 1818 2342 1858 2158 1950 2177"></polygon>
+  <polygon id="MTS.875.042" class="cls-1 area" points="2044 2197 2005 2383 1911 2363 1950 2177 2044 2197"></polygon>
+  <polygon id="MTS.875.043" class="cls-1 area" points="2137 2216 2097 2402 2006 2383 2044 2196 2137 2216"></polygon>
+  <polygon id="MTS.875.044" class="cls-1 area" points="2230 2235 2194 2421 2098 2402 2137 2216 2230 2235"></polygon>
+  <polygon id="MTS.875.045" class="cls-1 area" points="2323 2252 2290 2439 2195 2421 2231 2236 2323 2252"></polygon>
+  <polygon id="MTS.875.046" class="cls-1 area" points="2417 2267 2389 2455 2289 2439 2322 2252 2417 2267"></polygon>
+  <polygon id="MTS.875.048" class="cls-1 area" points="2512 2280 2487 2469 2390 2455 2417 2266 2512 2280"></polygon>
+  <polygon id="MTS.875.049" class="cls-1 area" points="2607 2291 2585 2481 2488 2469 2512 2281 2607 2291"></polygon>
+  <polygon id="MTS.875.050" class="cls-1 area" points="2700 2301 2683 2490 2585 2481 2607 2290 2700 2301"></polygon>
+  <polygon id="MTS.875.051" class="cls-1 area" points="2795 2309 2782 2498 2684 2490 2700 2301 2795 2309"></polygon>
+  <polygon id="MTS.875.052" class="cls-1 area" points="2891 2316 2880 2505 2784 2498 2795 2311 2891 2316"></polygon>
+  <polygon id="MTS.875.053" class="cls-1 area" points="2983 2320 2978 2510 2881 2505 2891 2317 2983 2320"></polygon>
+  <polygon id="MTS.875.054" class="cls-1 area" points="3079 2322 3075 2512 2980 2510 2984 2321 3079 2322"></polygon>
+  <polygon id="MTS.875.055" class="cls-1 area" points="3174 2323 3176 2513 3076 2512 3079 2323 3174 2323"></polygon>
+  <polygon id="MTS.875.056" class="cls-1 area" points="3269 2323 3275 2512 3176 2513 3174 2324 3269 2323"></polygon>
+  <polygon id="MTS.875.057" class="cls-1 area" points="3364 2319 3372 2509 3275 2512 3269 2324 3364 2319"></polygon>
+  <polygon id="MTS.875.058" class="cls-1 area" points="3458 2314 3469 2503 3373 2508 3365 2320 3458 2314"></polygon>
+  <polygon id="MTS.875.059" class="cls-1 area" points="3567 2307 3578 2497 3470 2503 3458 2314 3567 2307"></polygon>
+  <polygon id="MTS.875.060" class="cls-1 area" points="3675 2303 3686 2490 3578 2497 3568 2307 3675 2303"></polygon>
+  <polygon id="MTS.875.061" class="cls-1 area" points="3757 2296 3772 2300 3785 2310 3794 2321 3796 2341 3794 2484 3687 2491 3676 2302 3757 2296"></polygon>
+  <polygon id="MTS.876.001" class="cls-1 area" points="748 1292 887 1265 903 1267 915 1272 925 1281 930 1292 945 1360 772 1396 748 1292"></polygon>
+  <polygon id="MTS.876.002" class="cls-1 area" points="966 1452 791 1491 772 1397 945 1360 966 1452"></polygon>
+  <polygon id="MTS.876.003" class="cls-1 area" points="986 1544 812 1583 792 1490 966 1452 986 1544"></polygon>
+  <polygon id="MTS.876.004" class="cls-1 area" points="1008 1637 833 1676 812 1583 986 1544 1008 1637"></polygon>
+  <polygon id="MTS.876.005" class="cls-1 area" points="1030 1729 855 1768 834 1675 1008 1638 1030 1729"></polygon>
+  <polygon id="MTS.876.006" class="cls-1 area" points="1049 1812 1048 1830 1041 1843 1029 1856 1011 1862 875 1849 856 1768 1030 1730 1049 1812"></polygon>
+  <polygon id="MTS.876.007" class="cls-1 area" points="666 1749 679 1805 685 1821 694 1830 706 1837 726 1841 874 1849 841 1709 666 1749"></polygon>
+  <polygon id="MTS.876.008" class="cls-1 area" points="645 1657 819 1617 840 1708 667 1748 645 1657"></polygon>
+  <polygon id="MTS.876.009" class="cls-1 area" points="625 1563 797 1526 819 1617 645 1657 625 1563"></polygon>
+  <polygon id="MTS.876.010" class="cls-1 area" points="603 1471 779 1432 797 1525 625 1563 603 1471"></polygon>
+  <polygon id="MTS.876.011" class="cls-1 area" points="614 1395 687 1315 699 1302 714 1297 748 1291 778 1432 604 1472 595 1435 595 1421 603 1407 614 1395"></polygon>
+  <polygon id="MTS.877.001" class="cls-1 area" points="1234 1200 1378 1173 1395 1176 1407 1183 1414 1193 1441 1303 1267 1345 1234 1200"></polygon>
+  <polygon id="MTS.877.002" class="cls-1 area" points="1463 1398 1288 1436 1267 1345 1441 1303 1463 1398"></polygon>
+  <polygon id="MTS.877.003" class="cls-1 area" points="1482 1490 1308 1529 1288 1436 1462 1399 1482 1490"></polygon>
+  <polygon id="MTS.877.004" class="cls-1 area" points="1504 1582 1331 1622 1308 1528 1481 1490 1504 1582"></polygon>
+  <polygon id="MTS.877.005" class="cls-1 area" points="1525 1676 1352 1714 1331 1622 1504 1582 1525 1676"></polygon>
+  <polygon id="MTS.877.006" class="cls-1 area" points="1547 1768 1372 1808 1352 1715 1525 1677 1547 1768"></polygon>
+  <polygon id="MTS.877.007" class="cls-1 area" points="1575 1892 1578 1909 1572 1925 1561 1939 1546 1946 1525 1945 1397 1920 1372 1808 1547 1768 1575 1892"></polygon>
+  <polygon id="MTS.877.008" class="cls-1 area" points="1187 1807 1200 1866 1208 1880 1224 1891 1243 1895 1397 1920 1363 1767 1187 1807"></polygon>
+  <polygon id="MTS.877.009" class="cls-1 area" points="1167 1715 1341 1676 1363 1766 1188 1807 1167 1715"></polygon>
+  <polygon id="MTS.877.010" class="cls-1 area" points="1145 1622 1320 1582 1341 1675 1167 1714 1145 1622"></polygon>
+  <polygon id="MTS.877.011" class="cls-1 area" points="1125 1529 1299 1489 1321 1582 1145 1623 1125 1529"></polygon>
+  <polygon id="MTS.877.012" class="cls-1 area" points="1104 1436 1279 1397 1299 1488 1125 1529 1104 1436"></polygon>
+  <polygon id="MTS.877.013" class="cls-1 area" points="1083 1343 1258 1304 1279 1397 1104 1436 1083 1343"></polygon>
+  <polygon id="MTS.877.014" class="cls-1 area" points="1101 1224 1233 1201 1258 1304 1083 1343 1066 1269 1068 1250 1082 1233 1101 1224"></polygon>
+  <polygon id="MTS.878.001" class="cls-1 area" points="1835 1645 1799 1819 1695 1798 1665 1670 1664 1650 1677 1631 1694 1621 1714 1619 1835 1645"></polygon>
+  <polygon id="MTS.878.002" class="cls-1 area" points="1890 1839 1928 1664 1836 1646 1799 1820 1890 1839"></polygon>
+  <polygon id="MTS.878.003" class="cls-1 area" points="1983 1858 2020 1684 1927 1665 1890 1839 1983 1858"></polygon>
+  <polygon id="MTS.878.004" class="cls-1 area" points="2077 1880 2113 1703 2020 1684 1983 1859 2077 1880"></polygon>
+  <polygon id="MTS.878.005" class="cls-1 area" points="2168 1899 2207 1723 2112 1704 2077 1879 2168 1899"></polygon>
+  <polygon id="MTS.878.006" class="cls-1 area" points="2264 1918 2300 1743 2208 1723 2168 1898 2264 1918"></polygon>
+  <polygon id="MTS.878.007" class="cls-1 area" points="2361 1937 2392 1760 2300 1743 2264 1917 2361 1937"></polygon>
+  <polygon id="MTS.878.008" class="cls-1 area" points="2459 1952 2488 1775 2392 1761 2361 1937 2459 1952"></polygon>
+  <polygon id="MTS.878.009" class="cls-1 area" points="2558 1967 2581 1787 2488 1775 2460 1951 2558 1967"></polygon>
+  <polygon id="MTS.878.010" class="cls-1 area" points="2657 1979 2676 1799 2581 1788 2559 1966 2657 1979"></polygon>
+  <polygon id="MTS.878.011" class="cls-1 area" points="2769 1809 2754 1988 2657 1979 2676 1800 2769 1809"></polygon>
+  <polygon id="MTS.878.012" class="cls-1 area" points="2864 1817 2853 1996 2754 1989 2769 1809 2864 1817"></polygon>
+  <polygon id="MTS.878.013" class="cls-1 area" points="2959 1822 2951 2002 2853 1996 2864 1818 2959 1822"></polygon>
+  <polygon id="MTS.878.014" class="cls-1 area" points="3055 1825 3050 2005 2951 2000 2959 1822 3055 1825"></polygon>
+  <polygon id="MTS.878.015" class="cls-1 area" points="3150 1827 3149 2006 3050 2005 3056 1826 3150 1827"></polygon>
+  <polygon id="MTS.878.016" class="cls-1 area" points="3244 1825 3249 2004 3150 2006 3150 1826 3244 1825"></polygon>
+  <polygon id="MTS.878.017" class="cls-1 area" points="3338 1822 3346 2003 3248 2004 3246 1825 3338 1822"></polygon>
+  <polygon id="MTS.878.018" class="cls-1 area" points="3434 1817 3446 1996 3347 2003 3339 1822 3434 1817"></polygon>
+  <polygon id="MTS.878.019" class="cls-1 area" points="3530 1813 3538 1992 3447 1996 3434 1818 3530 1813"></polygon>
+  <polygon id="MTS.878.020" class="cls-1 area" points="3623 1807 3634 1986 3539 1991 3530 1813 3623 1807"></polygon>
+  <polygon id="MTS.878.021" class="cls-1 area" points="3779 1978 3634 1985 3624 1807 3721 1803 3738 1802 3753 1811 3766 1830 3779 1978"></polygon>
+  <polygon id="MTS.878.022" class="cls-1 area" points="3663 2165 3653 1984 3778 1979 3792 2107 3793 2122 3786 2140 3774 2154 3757 2160 3663 2165"></polygon>
+  <polygon id="MTS.878.023" class="cls-1 area" points="3568 2170 3661 2165 3653 1985 3558 1991 3568 2170"></polygon>
+  <polygon id="MTS.878.024" class="cls-1 area" points="3473 2174 3463 1998 3558 1993 3568 2168 3473 2174"></polygon>
+  <polygon id="MTS.878.025" class="cls-1 area" points="3376 2179 3369 2002 3463 1996 3473 2174 3376 2179"></polygon>
+  <polygon id="MTS.878.026" class="cls-1 area" points="3277 2184 3273 2005 3370 2002 3377 2180 3277 2184"></polygon>
+  <polygon id="MTS.878.027" class="cls-1 area" points="3178 2186 3178 2006 3273 2005 3277 2184 3178 2186"></polygon>
+  <polygon id="MTS.878.028" class="cls-1 area" points="3079 2186 3083 2004 3179 2006 3178 2185 3079 2186"></polygon>
+  <polygon id="MTS.878.029" class="cls-1 area" points="2981 2181 2987 2003 3038 2005 3083 2004 3078 2185 2981 2181"></polygon>
+  <polygon id="MTS.878.030" class="cls-1 area" points="2883 2177 2894 2001 2942 2003 2987 2004 2981 2181 2883 2177"></polygon>
+  <polygon id="MTS.878.031" class="cls-1 area" points="2783 2172 2799 1992 2853 1996 2892 2001 2882 2177 2783 2172"></polygon>
+  <polygon id="MTS.878.032" class="cls-1 area" points="2686 2162 2704 1983 2799 1992 2783 2171 2686 2162"></polygon>
+  <polygon id="MTS.878.033" class="cls-1 area" points="2588 2152 2610 1975 2704 1983 2686 2162 2588 2152"></polygon>
+  <polygon id="MTS.878.034" class="cls-1 area" points="2489 2139 2516 1962 2610 1975 2588 2151 2489 2139"></polygon>
+  <polygon id="MTS.878.035" class="cls-1 area" points="2393 2124 2421 1946 2470 1955 2516 1962 2489 2138 2393 2124"></polygon>
+  <polygon id="MTS.878.036" class="cls-1 area" points="2295 2107 2328 1930 2420 1947 2392 2124 2295 2107"></polygon>
+  <polygon id="MTS.878.037" class="cls-1 area" points="2199 2088 2234 1912 2328 1930 2295 2107 2199 2088"></polygon>
+  <polygon id="MTS.878.038" class="cls-1 area" points="2103 2069 2141 1893 2234 1911 2198 2088 2103 2069"></polygon>
+  <polygon id="MTS.878.039" class="cls-1 area" points="2011 2047 2047 1876 2140 1893 2103 2068 2011 2047"></polygon>
+  <polygon id="MTS.878.040" class="cls-1 area" points="1918 2028 1955 1855 2047 1875 2011 2047 1918 2028"></polygon>
+  <polygon id="MTS.878.041" class="cls-1 area" points="1826 2009 1863 1834 1955 1854 1919 2028 1826 2009"></polygon>
+  <polygon id="MTS.878.042" class="cls-1 area" points="1732 1965 1696 1799 1863 1834 1826 2008 1765 1996 1749 1991 1737 1979 1732 1965"></polygon>
+  <polygon id="MTS.879.001" class="cls-1 area" points="2520 1162 2508 1039 2662 1031 2682 1037 2695 1052 2701 1067 2707 1144 2520 1162"></polygon>
+  <polygon id="MTS.879.002" class="cls-1 area" points="2525 1257 2717 1239 2707 1143 2520 1161 2525 1257"></polygon>
+  <polygon id="MTS.879.003" class="cls-1 area" points="2535 1350 2725 1333 2716 1239 2526 1257 2535 1350"></polygon>
+  <polygon id="MTS.879.004" class="cls-1 area" points="2544 1444 2733 1428 2724 1334 2535 1350 2544 1444"></polygon>
+  <polygon id="MTS.879.005" class="cls-1 area" points="2553 1540 2742 1522 2733 1428 2544 1444 2553 1540"></polygon>
+  <polygon id="MTS.879.006" class="cls-1 area" points="2563 1648 2704 1665 2726 1663 2741 1651 2749 1636 2752 1617 2742 1522 2554 1539 2563 1648"></polygon>
+  <polygon id="MTS.881.001" class="cls-1 area" points="3016 1038 3168 1050 3183 1057 3193 1067 3199 1081 3201 1094 3207 1161 3029 1179 3016 1038"></polygon>
+  <polygon id="MTS.881.002" class="cls-1 area" points="3216 1258 3038 1273 3029 1179 3207 1163 3216 1258"></polygon>
+  <polygon id="MTS.881.003" class="cls-1 area" points="3223 1351 3046 1367 3038 1274 3216 1260 3223 1351"></polygon>
+  <polygon id="MTS.881.004" class="cls-1 area" points="3232 1447 3055 1463 3046 1367 3224 1351 3232 1447"></polygon>
+  <polygon id="MTS.881.005" class="cls-1 area" points="3242 1542 3062 1557 3055 1463 3232 1447 3242 1542"></polygon>
+  <polygon id="MTS.881.006" class="cls-1 area" points="3075 1689 3213 1688 3228 1684 3241 1674 3249 1658 3252 1645 3242 1544 3063 1558 3075 1689"></polygon>
+  <polygon id="MTS.881.007" class="cls-1 area" points="2883 1561 3059 1544 3075 1687 2927 1683 2908 1675 2895 1662 2890 1641 2883 1561"></polygon>
+  <polygon id="MTS.881.008" class="cls-1 area" points="2873 1466 3053 1450 3058 1544 2883 1560 2873 1466"></polygon>
+  <polygon id="MTS.881.009" class="cls-1 area" points="2866 1371 3045 1355 3053 1449 2874 1465 2866 1371"></polygon>
+  <polygon id="MTS.881.010" class="cls-1 area" points="2858 1276 3036 1260 3044 1354 2866 1371 2858 1276"></polygon>
+  <polygon id="MTS.881.011" class="cls-1 area" points="2849 1182 3027 1165 3035 1260 2858 1276 2849 1182"></polygon>
+  <polygon id="MTS.881.012" class="cls-1 area" points="2882 1030 3016 1037 3027 1165 2849 1182 2840 1086 2839 1065 2846 1046 2863 1033 2882 1030"></polygon>
+  <polygon id="MTS.882.001" class="cls-1 area" points="3519 1106 3674 1144 3691 1150 3702 1163 3706 1177 3711 1244 3535 1260 3519 1106"></polygon>
+  <polygon id="MTS.882.002" class="cls-1 area" points="3722 1339 3544 1356 3535 1260 3711 1244 3722 1339"></polygon>
+  <polygon id="MTS.882.003" class="cls-1 area" points="3730 1434 3552 1451 3544 1356 3721 1340 3730 1434"></polygon>
+  <polygon id="MTS.882.004" class="cls-1 area" points="3738 1529 3561 1544 3552 1452 3729 1434 3738 1529"></polygon>
+  <polygon id="MTS.882.005" class="cls-1 area" points="3746 1611 3746 1627 3742 1643 3735 1654 3717 1664 3572 1673 3561 1545 3738 1530 3746 1611"></polygon>
+  <polygon id="MTS.882.006" class="cls-1 area" points="3384 1583 3562 1567 3572 1672 3424 1681 3407 1673 3393 1659 3387 1642 3384 1583"></polygon>
+  <polygon id="MTS.882.007" class="cls-1 area" points="3376 1489 3552 1472 3562 1567 3384 1583 3376 1489"></polygon>
+  <polygon id="MTS.882.008" class="cls-1 area" points="3366 1394 3545 1376 3551 1471 3376 1488 3366 1394"></polygon>
+  <polygon id="MTS.882.009" class="cls-1 area" points="3358 1298 3536 1282 3545 1377 3366 1394 3358 1298"></polygon>
+  <polygon id="MTS.882.010" class="cls-1 area" points="3349 1204 3527 1188 3536 1281 3358 1299 3349 1204"></polygon>
+  <polygon id="MTS.882.011" class="cls-1 area" points="3391 1082 3518 1107 3527 1188 3350 1204 3344 1143 3343 1118 3347 1099 3365 1084 3391 1082"></polygon>
+  <polygon id="MTS.883.002" class="cls-1 area" points="2576 683 2666 681 2673 892 2584 896 2576 683"></polygon>
+  <polygon id="MTS.883.003" class="cls-1 area" points="2760 682 2763 891 2674 893 2667 681 2760 682"></polygon>
+  <polygon id="MTS.883.004" class="cls-1 area" points="2856 686 2853 891 2763 891 2759 681 2856 686"></polygon>
+  <polygon id="MTS.883.005" class="cls-1 area" points="2951 690 2942 894 2853 890 2857 686 2951 690"></polygon>
+  <polygon id="MTS.883.006" class="cls-1 area" points="3051 700 3037 901 2943 894 2951 690 3051 700"></polygon>
+  <polygon id="MTS.883.007" class="cls-1 area" points="3150 710 3132 908 3037 901 3051 701 3150 710"></polygon>
+  <polygon id="MTS.883.008" class="cls-1 area" points="3250 724 3226 918 3133 907 3151 710 3250 724"></polygon>
+  <polygon id="MTS.883.009" class="cls-1 area" points="3348 739 3319 931 3226 918 3250 724 3348 739"></polygon>
+  <polygon id="MTS.883.010" class="cls-1 area" points="3446 759 3348 739 3320 931 3414 946 3446 759"></polygon>
+  <polygon id="MTS.883.011" class="cls-1 area" points="3545 779 3508 964 3414 946 3446 760 3545 779"></polygon>
+  <polygon id="MTS.883.012" class="cls-1 area" points="3641 804 3599 984 3509 964 3545 780 3641 804"></polygon>
+  <polygon id="MTS.883.013" class="cls-1 area" points="3734 829 3692 1006 3599 984 3641 803 3734 829"></polygon>
+  <polygon id="MTS.883.014" class="cls-1 area" points="3815 852 3832 1045 3692 1006 3734 828 3815 852"></polygon>
+  <polygon id="MTS.883.017" class="cls-1 area" points="3882 1583 4060 1567 4067 1661 3892 1677 3882 1583"></polygon>
+  <polygon id="MTS.883.018" class="cls-1 area" points="4078 1756 3899 1772 3892 1677 4067 1661 4078 1756"></polygon>
+  <polygon id="MTS.883.019" class="cls-1 area" points="4086 1850 3908 1866 3899 1772 4077 1755 4086 1850"></polygon>
+  <polygon id="MTS.883.020" class="cls-1 area" points="4095 1945 3917 1961 3907 1866 4087 1851 4095 1945"></polygon>
+  <polygon id="MTS.883.021" class="cls-1 area" points="4103 2041 3926 2055 3917 1962 4094 1944 4103 2041"></polygon>
+  <polygon id="MTS.883.022" class="cls-1 area" points="4111 2138 3934 2152 3925 2054 4103 2041 4111 2138"></polygon>
+  <polygon id="MTS.883.023" class="cls-1 area" points="4123 2253 3936 2265 3935 2210 3933 2152 4112 2137 4123 2253"></polygon>
+  <polygon id="MTS.883.024" class="cls-1 area" points="4132 2363 3932 2375 3935 2265 4124 2253 4132 2363"></polygon>
+  <polygon id="MTS.883.025" class="cls-1 area" points="4142 2466 3933 2477 3932 2375 4133 2363 4142 2466"></polygon>
+</svg>
